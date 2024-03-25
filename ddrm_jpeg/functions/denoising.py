@@ -3,7 +3,7 @@ from tqdm import tqdm
 import torchvision.utils as tvu
 import os
 
-from functions.jpeg_torch import jpeg_decode as jd, jpeg_encode as je
+from ddrm_jpeg.functions.jpeg_torch import jpeg_decode as jd, jpeg_encode as je
 
 
 def compute_alpha(beta, t):
