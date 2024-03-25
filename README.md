@@ -1,12 +1,5 @@
 # DiffusionRestoration
 
-
-- faire varier le bruit inpainting (comparaison avec Chung)
-- nombre de diffusion time steps (comparaison avec Chung)
-- sensibiltié $\eta$
-- skip ?
-
-- stochasticitié sampling
-- runtime
-- model (DDPM)
-- variance
+This repository contains experiments on DDRM. 
+The folder ddrm and dps contains the official implementation of DDRM and DPS respectively.
+The folder experiments contains our own homemade derived implementations of the models as well as the experiments on DDRM and DPS.
