@@ -18,7 +18,7 @@ Our research revolves around the utilization of Diffusion models to address and 
 
 3. **Stochastic Sampling Evaluation**: We evaluate the stochastic aspect of the sampling process in DDRM.
 
-4. **Extension to Non-linear Problems**: A forward-looking aspect of our research is the exploration of extending the DDRM framework to tackle non-linear inverse problems.
+4. **Extension to Non-linear Problems**: Exploration of extending the DDRM framework to tackle non-linear inverse problems.
    
 ## Contribution and Future Work
 
