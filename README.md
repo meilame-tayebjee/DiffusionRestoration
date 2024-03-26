@@ -1,6 +1,6 @@
 # Diffusion & Restoration Repository Overview
 
-This repository is dedicated to exploring and advancing the field of image restoration using Diffusion models, particularly focusing on solving noisy Linear Inverse problems that degrade image quality. At the heart of our work are the Denoising Diffusion Restoration Models (DDRM) and Diffusion Posterior Sampling (DPS).
+This repository explores image restoration processes using Diffusion models, particularly focusing on solving noisy Linear Inverse problems that degrade image quality. At the heart of our work are the Denoising Diffusion Restoration Models (DDRM) and Diffusion Posterior Sampling (DPS).
 
 ## Repository Structure
 
